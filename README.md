@@ -18,7 +18,7 @@ gradle build
 | Tag    | Latest | Libraries                             |
 |--------|:-------|---------------------------------------|
 | 1.0.0  |        | Gradle 7.4<br/>JDK 11<br/>GIT<br/>SSH |
-| jdk-17 | x      | Gradle 7.4<br/>JDK 17<br/>GIT<br/>SSH |
+| jdk-17 | x      | Gradle 7<br/>JDK 17<br/>GIT<br/>SSH   |
 
 # Docker Hub
 https://hub.docker.com/r/markuskarileet/gradle-ci

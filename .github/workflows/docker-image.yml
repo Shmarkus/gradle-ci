@@ -2,9 +2,9 @@ name: Docker Image CI
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "jdk-17" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "jdk-17" ]
 
 jobs:
 
