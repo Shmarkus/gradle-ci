@@ -20,6 +20,6 @@ jobs:
         org_name: markuskarileet
         repo_name: gradle-ci
         # Tag default branch with latest tag instead of branch name.
-        use_latest: true
+        use_latest: false
         docker_username: markuskarileet
         docker_password: ${{ secrets.DOCKERHUB_TOKEN }}
